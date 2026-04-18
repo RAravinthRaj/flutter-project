@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "310629766313",
+    "project_id": "thought-app-16cf7",
+    "storage_bucket": "thought-app-16cf7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310629766313:android:afb9c0160510bd1db9c5b8",
+        "android_client_info": {
+          "package_name": "com.thoughtdump.aiorganizer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-7jSAdIvShZiAydCfC1rlTdbYrbGPmCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
