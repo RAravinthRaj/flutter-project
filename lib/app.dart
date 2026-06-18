@@ -14,7 +14,7 @@ class ThoughtDumpApp extends ConsumerWidget {
     final themeMode = ref.watch(themeControllerProvider);
 
     return MaterialApp.router(
-      title: 'Thought Dump - AI Organizer',
+      title: 'Thought Dump - AI Organizer and Awesome',
       debugShowCheckedModeBanner: false,
       themeMode: themeMode,
       theme: AppTheme.light(),
